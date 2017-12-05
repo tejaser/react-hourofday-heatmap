@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Hour Of Day Heatmap",
+  "name": "React based Hour of Day Heatmap visualization",
   "icons": [
     {
       "src": "favicon.ico",
